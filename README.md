@@ -1,6 +1,6 @@
 # Recent Storybook projects
 ## Gas & Oil System
-[UI Storybook with Complex Charts and various components](https://bit.ly/ui-charts)
+[UI Storybook with complex charts and various components](https://bit.ly/ui-charts)
 
 ## GameDay
 [Gamme Day Storybook](https://61a0b632f561d1003a2e0040-bdqqlbuund.chromatic.com/?path=/story/collections-page--default)
